@@ -46,7 +46,7 @@ label{
 	position:relative;	
 }
 .logo{
-	float:left;
+	float:center;
 	margin-top: 4px;
 }
 .tollfree{
