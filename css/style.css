@@ -39,7 +39,7 @@ label{
 }
 /*-----start-header----*/
 .header {
-	background: #19629e;
+	background: #3075ad;
 	padding: 3em 0 6em 0;
 }
 .navigation{
@@ -76,7 +76,7 @@ i.phone{
 	position:relative;
 }
 .navigation-bar{
-	background: #9cbc1f;
+	background: #3075ad;
 	border-top: 7px solid #272e34;
 	position: absolute;
 	z-index: 999;
