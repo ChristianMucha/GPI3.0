@@ -171,14 +171,15 @@ i.phone{
   width:100%;
   border: 0;
   }
-.caption{
+.caption h1{
+	color: #ffffff
 	width: 57%;
 	position: absolute;
 	top: 25%;
 	left: 20%;
 	text-align:center;
 }
-.caption h2{
+.caption h1{
 	color: #ffffff;
 	line-height: 1.5em;
 	font-size: 3.8em;
@@ -186,7 +187,7 @@ i.phone{
 	text-transform: capitalize;
 	font-weight: 300;
 }
-.caption1 h2{
+.caption1 h1{
 	color: #ffffff;
 	line-height: 1.5em;
 	font-size: 3.3em;
